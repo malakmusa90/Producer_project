@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="separateProdTestSources" value="true" />
+    <profile name="sbt 1" modules="BatchFileProducer,BatchFileProducer.main,BatchFileProducer.test,KafkaBatchProducer,KafkaBatchProducer.main,KafkaBatchProducer.test,TcpServer_Project,TcpServer_Project.main,TcpServer_Project.test" />
+  </component>
+</project>
