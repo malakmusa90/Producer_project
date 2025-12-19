@@ -1,0 +1,91 @@
+[ {
+  "title" : "Chrome can now autofill details from your Google account",
+  "link" : "https://www.theverge.com/news/838987/google-chrome-android-ios-desktop-autofill-account-wallet",
+  "content" : "<figure>\n\n<img alt=\"An illustration showing several ways Google has improved Chrome’s autofill capabilities.\" data-caption=\"\" data-portal-copyright=\"Image: Google\" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/chrome_autofill_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\t\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">Google has <a href=\"https://blog.google/products/chrome/autofill-improvements\" data-type=\"link\" data-id=\"https://blog.google/products/chrome/autofill-improvements\">announced several autofill improvements</a> being rolled out to the mobile and desktop versions of Chrome. The updates will give autofill access to more of your data from places like Google Wallet and make it easier to select the right info a form is asking for when there are multiple suggestions.</p>\n\n<p class=\"has-text-align-none\">Autofill can now access your name, email address, and saved work and home addresses from your Google Account while you’re signed into the desktop, iOS, and Android versions of Chrome.</p>\n<img src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/chrome_autofill_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" alt=\"A screenshot showing expanded suggestions in Google Chrome on Android.\" title=\"A screenshot showing expanded suggestions in Google Chrome on Android.\" data-has-syndication-rights=\"1\" data-caption=\"&lt;em&gt;The Android version of Chrome is expanding autofill suggestions to two lines with more context.&lt;/em&gt; | Image: Google\" data-portal-copyright=\"Image: Google\" />\n<p class=\"has-text-align-none\">For Chrome on Android, Google is expanding the autofill suggestions that appear above the onscreen keyboard so they’re not as condensed and easier to differentiate. The suggestions will now display two lines of information that could, for example, include the addresses of two contacts with the same name so you have more context for choosing the correct one.</p>\n\n<p class=\"has-text-align-none\">Google is also improving how Chrome’s autofill completes forms with international addresses, including Mexican descriptions that often reference two cross-streets, while support for “phonetic names in Japan” will be introduced later.</p>\n<img src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/chrome_autofill_3.jpg?quality=90&#038;strip=all&#038;crop=0,2.7320854603895,100,94.535829079221\" alt=\"A screenshot showing Chrome autofilling flight data from Google Wallet.\" title=\"A screenshot showing Chrome autofilling flight data from Google Wallet.\" data-has-syndication-rights=\"1\" data-caption=\"&lt;em&gt;Chrome’s autofill can now access information about upcoming travel bookings and flights from Google Wallet.&lt;/em&gt; | Image: Google\" data-portal-copyright=\"Image: Google\" />\n<p class=\"has-text-align-none\">Last month <a href=\"https://blog.google/products/chrome/enhanced-autofill/\">Chrome added the ability</a> to <a href=\"https://www.theverge.com/news/812425/chrome-can-now-autofill-your-passport-number\">autofill details like your passport number</a>, driver’s license, loyalty cards, and info about your vehicle including its VIN and license plate for desktop users who turned on “<a href=\"https://support.google.com/chrome/answer/142893?\">enhanced autofill</a>.” Both the desktop and Android versions of Chrome will now be able to access data from travel bookings saved in Google Wallet, so if you’re booking an airport rental car online, you can autofill details like the time and day your flight arrives.</p>",
+  "date" : "2025-12-05T19:00:00.000Z",
+  "source" : "The Verge"
+}, {
+  "title" : "You can now use Pixel phones as a Switch 2 webcam",
+  "link" : "https://www.theverge.com/news/839133/google-pixel-smartphone-nintendo-switch-2-webcam",
+  "content" : "<figure>\n\n<img alt=\"A Google Pixel smartphone connected to a Switch 2 and being used as a webcam.\" data-caption=\"That Pixel phone in your pocket is now a Switch 2 webcam. | Photo by Cameron Faulkner / The Verge\" data-portal-copyright=\"Photo by Cameron Faulkner / The Verge\" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/switch2_pixel_webcam.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\tThat Pixel phone in your pocket is now a Switch 2 webcam. | Photo by Cameron Faulkner / The Verge\t</figcaption>\n</figure>\n<p class=\"has-text-align-none\">When it launched the Switch 2’s <a href=\"https://www.theverge.com/nintendo/682008/which-webcams-work-with-nintendo-switch-2\">compatibility with various webcams was hit or miss</a>. A webcam isn’t a necessary accessory, but since the Switch 2 lacks one of its own, you need one to <a href=\"https://www.theverge.com/video/685229/nintendo-switch-2-gamechat-c-button-mario-kart\">take full advantage of the console’s GameChat feature</a> that can livestream players’ faces during multiplayer matches. Switch 2 <a href=\"https://www.theverge.com/report/693182/nintendo-switch-2-webcam-mystery-1080p-480p-uvc-iso-bulk-ugreen-elgato\">webcam compatibility has since improved</a>, but if you don’t already own one, you can now use your Pixel smartphone, <a href=\"https://www.androidauthority.com/pixel-phone-as-switch-2-webcam-3622443/\">according to <em>Android Authority</em></a>.</p>\n\n<p class=\"has-text-align-none\">Despite Nintendo’s claims that the Switch 2 works with most USB webcams, our own testing confirmed that Pixel smartphones could not be used as webcams at launch, even with the device’s settings switched to the USB webcam mode that Google introduced with Android 14. Switch 2 users eventually found that Android phones and iPhones could be used as a webcam for the console, but with the help of <a href=\"https://www.youtube.com/watch?v=wGH_VF-Gx4Y\">additional USB-C to HDMI adapters</a>, and HDMI capture cables.</p>\n<img src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/switch2_pixel_webcam2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" alt=\"A screenshot of Android USB settings next to a photo of a Google Pixel phone being used as a webcam with the Switch 2.\" title=\"A screenshot of Android USB settings next to a photo of a Google Pixel phone being used as a webcam with the Switch 2.\" data-has-syndication-rights=\"1\" data-caption=\"&lt;em&gt;You’ll need to switch your USB preferences to “Webcam” once your Pixel is connected to your Switch 2 with a USB-C cable to use it as a webcam.&lt;/em&gt; | Photo by Cameron Faulkner / The Verge\" data-portal-copyright=\"Photo by Cameron Faulkner / The Verge\" />\n<p class=\"has-text-align-none\">But extra hardware is no longer needed to use a Pixel smartphone as a Switch 2 webcam. We tested a Pixel 9 Pro connected directly to the Switch 2’s top USB-C port with a single cable and, after switching the USB preferences to “Webcam” mode, we were able to use the smartphone as the camera for GameChat. If you’re playing multiplayer games like <em>Mario Kart World</em>, GameChat lets you not only speak with other competitors around the world, but also see them superimposed over a livestream of them playing if you’re using a webcam.</p>\n\n<p class=\"has-text-align-none\">It’s not known if recent updates on Google’s or Nintendo’s end are responsible for making this work (the Pixel 9 Pro we tested it with is running the Android 16 December release), but it’s a welcome upgrade for those who frequently travel with their Switch 2 and don’t want to lug a separate webcam everywhere they go.</p>",
+  "date" : "2025-12-05T18:46:37.000Z",
+  "source" : "The Verge"
+}, {
+  "title" : "The Luigi Mangione trial is all about narrative control",
+  "link" : "https://www.theverge.com/policy/839054/luigi-mangione-evidence-suppression-new-york-internet-fandom-media",
+  "content" : "<figure>\n\n<img alt=\"\" data-caption=\"\" data-portal-copyright=\"\" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258132_Luigi_court_AKrales_1029.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>\n\t\t</figcaption>\n</figure>\n<p class=\"has-drop-cap has-text-align-none\">On Monday, several dozen members of the public are lined up outside 100 Centre Street in Lower Manhattan, hoping to squeeze into the courtroom to hear testimony from witnesses called by the state against Luigi Mangione - the man accused of <a href=\"https://www.theverge.com/2024/12/9/24317259/unitedhealthcare-ceo-killing-software-developer-arrested\">shooting and killing UnitedHealthcare CEO Brian Thompson</a> a year ago. </p>\n<p class=\"has-text-align-none\">Despite the endless news coverage, viral memes, and photos seen by millions of people, the group that shows up to hearings has <a href=\"https://www.theverge.com/law/617946/luigi-mangione-unitedhealth-ceo-february-hearing-protest\">thinned out significantly since the court date in February</a>, when hundreds gathered outside and in the courthouse. There is a small demonstration ramping up, organized by <a href=\"https://popnyc.org/about\">healthcare reform group People Over Profi …</a></p>\n<p><a href=\"https://www.theverge.com/policy/839054/luigi-mangione-evidence-suppression-new-york-internet-fandom-media\">Read the full story at The Verge.</a></p>",
+  "date" : "2025-12-05T18:30:00.000Z",
+  "source" : "The Verge"
+}, {
+  "title" : "Why Tehran Is Running Out of Water",
+  "link" : "https://www.wired.com/story/why-tehran-is-running-out-of-water-iran-climate-change-drought-extreme-weather/",
+  "content" : "Because of shifting storms and sweltering summers, Iran’s capital faces a future “Day Zero” when the taps run dry.",
+  "date" : "2025-12-06T12:00:00.000Z",
+  "source" : "Wired"
+}, {
+  "title" : "Canyon Deflectr RLS Bike Helmet Review: Game-Changing Safety Technology",
+  "link" : "https://www.wired.com/review/canyon-deflectr-rls-bike-helmet/",
+  "content" : "Canyon’s latest off-road helmet is the first bike helmet in the United States to feature RLS’s game-changing safety tech.",
+  "date" : "2025-12-06T11:30:00.000Z",
+  "source" : "Wired"
+}, {
+  "title" : "Security News This Week: Oh Crap, Kohler’s Toilet Cameras Aren’t Really End-to-End Encrypted",
+  "link" : "https://www.wired.com/story/security-news-this-week-oh-crap-kohlers-toilet-cameras-arent-really-end-to-end-encrypted/",
+  "content" : "Plus: The Trump administration declines to issue sanctions over Salt Typhoon’s hacking spree, officials warn of a disturbingly stealthy Chinese malware specimen, and more.",
+  "date" : "2025-12-06T11:30:00.000Z",
+  "source" : "Wired"
+}, {
+  "title" : "Gevi Espresso Machine Review: Quick but Quirky",
+  "link" : "https://www.wired.com/review/gevi-espresso-machine/",
+  "content" : "This no-frills device is good, but chintzy accessories and a borderline dangerous frother keep it from being great.",
+  "date" : "2025-12-06T11:08:00.000Z",
+  "source" : "Wired"
+}, {
+  "title" : "Gear News of the Week: Google Drops Another Android Update, and the Sony A7 V Is Here",
+  "link" : "https://www.wired.com/story/gear-news-of-the-week-google-drops-an-android-update-and-the-sony-a7-v-is-here/",
+  "content" : "Plus: Samsung’s tri-folding phone unfurls to the size of a tablet, and Kobo has a new remote page-turner.",
+  "date" : "2025-12-06T11:00:00.000Z",
+  "source" : "Wired"
+}, {
+  "title" : "Vimeo Promo Codes and Deals: Save Up to 40%",
+  "link" : "https://www.wired.com/story/vimeo-promo-code/",
+  "content" : "Enjoy 25% off a membership, 40% off, plus an additional 10% off annual plans, and more deals to save at Vimeo.",
+  "date" : "2025-12-06T06:00:00.000Z",
+  "source" : "Wired"
+}, {
+  "title" : "WIRED Roundup: DOGE Isn’t Dead, Facebook Dating Is Real, and Amazon’s AI Ambitions",
+  "link" : "https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-doge-facebook-dating-amazon-artificial-intelligence/",
+  "content" : "In this episode of Uncanny Valley, we bring you the news of the week, then dive into how some DOGE operatives are still at work in the federal government—despite reports claiming otherwise.",
+  "date" : "2025-12-05T22:29:11.000Z",
+  "source" : "Wired"
+}, {
+  "title" : "‘Horses,’ the Most Controversial Game of the Year, Doesn’t Live Up to the Hype",
+  "link" : "https://www.wired.com/story/horses-the-most-controversial-game-of-the-year-doesnt-live-up-to-the-hype/",
+  "content" : "First it was banned. Then its sales blew up. But Horses fails to meet the lofty goals of its own ideas.",
+  "date" : "2025-12-05T20:45:38.000Z",
+  "source" : "Wired"
+}, {
+  "title" : "Buying Warner Bros. Gives Netflix What It’s Always Needed: An Identity",
+  "link" : "https://www.wired.com/story/netflix-warner-bros-acquisition-identity/",
+  "content" : "The $83 billion deal gives the streamer a century’s worth of prestige television and movies, from Batman movies to Game of Thrones. It also ends the streaming wars.",
+  "date" : "2025-12-05T20:41:13.000Z",
+  "source" : "Wired"
+}, {
+  "title" : "The Best Deals From the Silk & Snow Cyber Week Sale (2025)",
+  "link" : "https://www.wired.com/story/silk-snow-deals-2025/",
+  "content" : "For a few more days, you can save on mattresses and bed frames from one of our favorite makers.",
+  "date" : "2025-12-05T18:55:57.000Z",
+  "source" : "Wired"
+}, {
+  "title" : "9 Best Lubes (2025): Water-Based, Silicone, Natural Oils",
+  "link" : "https://www.wired.com/gallery/best-lubes/",
+  "content" : "For the most sensitive parts of the human body, friction is the enemy. Here’s how to keep it at bay with our favorite lubes made of water, silicone, or natural oil.",
+  "date" : "2025-12-05T17:44:00.000Z",
+  "source" : "Wired"
+}, {
+  "title" : "Here’s What You Should Know About Launching an AI Startup",
+  "link" : "https://www.wired.com/story/artificial-intelligence-startups-daydream-fashion-recommendations/",
+  "content" : "AI startups say the promise of turning dazzling models into useful products is harder than anyone expected. Three founders discuss what it takes.",
+  "date" : "2025-12-05T16:00:00.000Z",
+  "source" : "Wired"
+} ]
